@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\Banco\\Banco.csproj": {}
+    "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\git\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\Banco\\Banco.csproj": {
+    "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\git\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\Banco\\Banco.csproj",
+        "projectUniqueName": "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\git\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\Banco\\Banco.csproj",
+        "projectPath": "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\git\\Banco\\Banco.csproj",
         "packagesPath": "C:\\Users\\ASTRA\\.nuget\\packages\\",
-        "outputPath": "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\Banco\\obj\\",
+        "outputPath": "D:\\ASTRA\\Área de Trabalho\\Astro boy 2020\\Faculdade\\Quinto Semestre\\FUNDAMENTOS DE TESTES DE SOFTWARE\\Trabalho final\\git\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
